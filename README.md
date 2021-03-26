@@ -3,7 +3,10 @@
 
 
 *Welcom to my Github Page*:sunglasses:
-*Hello,I'm Faiza Berrichi, Graphic designer since 2011  *
+
+
+*I'm Faiza Berrichi, Graphic designer since 2011  *
+
 
 - 🌱 I’m currently learning a web dev at DesCodeuses school ...
 
