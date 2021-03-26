@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**FAITH-ORAN/FAITH-ORAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 *Welcom to my Github Page*:sunglasses:
 *Hello,I'm Faiza Berrichi, Graphic designer since 2011  *
