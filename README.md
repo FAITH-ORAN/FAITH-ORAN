@@ -30,6 +30,6 @@
     **JavaScript**
      
      
-   !JS](https://www.sololearn.com/certificates/course/en/18788942/1024/landscape/png)
+   ![JS](https://www.sololearn.com/certificates/course/en/18788942/1024/landscape/png)
 
     
