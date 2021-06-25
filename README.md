@@ -39,3 +39,6 @@
     
     ***PHP***
   ![PHP](https://www.sololearn.com/Certificate/1059-18788942/jpg)
+  
+  ***SQL***
+   ![SQL](https://www.sololearn.com/certificates/course/en/18788942/1060/landscape/png)
