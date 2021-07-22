@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning a web dev at DesCodeuses school ...
 
-  - Follow me on codepen:![codepen](https://codepen.io/faith-oran)*
+  - Follow me on codepen:(https://codepen.io/faith-oran)*
   
   
    *My certificates with SoloLearn*:pushpin:
