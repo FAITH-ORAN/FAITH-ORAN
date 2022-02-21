@@ -5,10 +5,10 @@
 *Welcom to my Github Page*:sunglasses:
 
 
-*I'm Faiza Berrichi, Graphic designer since 2011  *
+*I'm Faiza Berrichi, junior web developer  *
 
 
-- 🌱 I’m currently learning a web dev at DesCodeuses school ...
+- 🌱 With skills in Graphic/ UX design ...
 
   - Follow me on codepen:(https://codepen.io/faith-oran)*
   
