@@ -16,6 +16,11 @@
    *My certificates with SoloLearn*:pushpin:
    
    
+   -My new Certificate 
+     **Java**
+   
+   ![Java ](https://www.sololearn.com/certificates/course/en/18788942/1068/landscape/png)
+   
    
     **HTML**
    
