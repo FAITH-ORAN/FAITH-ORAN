@@ -19,7 +19,7 @@
    -My new Certificate
      **Javascript intermediate**
 
-    ![Javascript ](![Java ](https://www.sololearn.com/certificates/course/en/18788942/1068/landscape/png))
+    ![Javascript ](![Java ](https://www.sololearn.com/certificates/course/en/18788942/1068/landscape/png)
   
      **Java**
    
