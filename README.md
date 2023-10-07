@@ -20,7 +20,7 @@
   
      **Javascript intermediate**
 
-    ![Javascript ](https://www.sololearn.com/certificates/CC-8ASICMWS/jpg)
+    ![Javascript ](https://www.sololearn.com/certificates/CC-8ASICMWS/png)
   
      **Java**
    
