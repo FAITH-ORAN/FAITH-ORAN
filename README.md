@@ -20,6 +20,7 @@
 
 
     **Angular**
+  
     ![Angular] (https://www.sololearn.com/certificates/CC-Q7SFO2IF)
   
      **Javascript intermediate**
