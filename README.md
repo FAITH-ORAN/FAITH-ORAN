@@ -21,7 +21,7 @@
 
     **Angular**
   
-  ![Angular]([https://www.sololearn.com/certificates/CC-Q7SFO2IF](https://api2.sololearn.com/v2/certificates/CC-Q7SFO2IF/image/jpg?t=638871486350387920))
+  ![Angular](https://api2.sololearn.com/v2/certificates/CC-Q7SFO2IF/image/jpg?t=638871486350387920)
     
      **Javascript intermediate**
 
